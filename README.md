@@ -3,7 +3,7 @@
 
 ## What is the Stalk Market?
 
-ACNH features a turnip-based purchase and sale subtheme with varying prices, resembling a stock market (hence stalk market or stonks). A lot of people already wrote about it (see [here](We Asked Our Resident Stock Market Genius About the Animal Crossing...)).
+ACNH features a turnip-based purchase and sale subtheme with varying prices, resembling a stock market (hence stalk market or stonks). A lot of people already wrote about it (see [here](https://www.wealthsimple.com/en-ca/magazine/animal-crossing)).
 
 ## What is `stonks`?
 
